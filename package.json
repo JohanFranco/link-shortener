@@ -10,8 +10,14 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.16.13",
     "@astrojs/check": "^0.9.4",
-    "typescript": "^5.6.3"
+    "@astrojs/db": "^0.14.3",
+    "@astrojs/node": "^8.3.4",
+    "@astrojs/tailwind": "^5.1.2",
+    "astro": "^4.16.13",
+    "tailwindcss": "^3.4.15",
+    "typescript": "^5.6.3",
+    "uuid": "^11.0.3",
+    "validator": "^13.12.0"
   }
 }
